@@ -3,8 +3,8 @@
 <h2>Project Overview</h2>
 <b>This project applies Logistic Regression to predict the survival of passengers on the Titanic using the famous Titanic dataset. The model was built by carefully cleaning the data, selecting relevant features, and optimizing its performance through trial-and-error methods including regularization techniques and validation methods.</b>
 
-Steps Involved
-1. Data Cleaning
+<h2>Steps Involved</h2>
+**<u>1. Data Cleaning</u>**
 Handled missing values, standardized the data, and ensured all necessary columns were in appropriate formats.
 Key Tasks:
 Treating null values in columns like Age, Fare, and Embarked.
