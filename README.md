@@ -59,3 +59,4 @@ The model’s accuracy was improved significantly through regularization and val
 After training and validating the model, it was prepared for deployment, with the goal of accurately predicting passenger survival.
 
 CHECK OUT MY CODE OVER HERE!:https://github.com/nabihacodes/TITANIC-SURVIVAL-PREDICTION--LOGISTIC-REGRESSION
+http://192.168.70.144:8501/
